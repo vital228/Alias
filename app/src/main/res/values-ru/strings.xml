@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alias</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_button">Играть</string>
+    <string name="skip">Пропустить</string>
+    <string name="got_it">Ответил</string>
+    <string name="next">Продолжить</string>
+    <string name="end_game">Закончить игру</string>
+    <string name="start_round">Начать раунд</string>
+    <string name="input_name_new_team">Введите название новой команды</string>
+    <string name="db_name">WordsDB-ru</string>
+    <string name="db_file">WordsDB-ru.db</string>
+    <string name="add_team">Добавить команду</string>
+    <string name="start_game">Начать игру</string>
+    <string name="score">Счет: </string>
+</resources>
